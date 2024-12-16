@@ -13,7 +13,7 @@ module "vpc" {
   tags = {
     Terraform   = "true"
     Environment = "dev"
-    Created_by  = "Luqman"
+    Created_by  = "khai"
     Cohort      = "CE7"
   }
 }
