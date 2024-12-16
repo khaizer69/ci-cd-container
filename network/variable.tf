@@ -1,7 +1,7 @@
 variable "vpc_name" {
   description = "The VPC Name to use"
   type        = string
-  default     = "luqman-tf-vpc"
+  default     = "khai-tf-vpc"
 }
 
 variable "cidr_range" {
